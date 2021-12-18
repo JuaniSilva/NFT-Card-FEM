@@ -13,8 +13,8 @@ Users should be able to:
 ![](./PreView.png)
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/JuaniSilva/NFT-Card-FEM)
-- Live Site URL: [Add live site URL here](https://juanisilva.github.io/NFT-Card-FEM/)
+- Solution URL: [](https://github.com/JuaniSilva/NFT-Card-FEM)
+- Live Site URL: [](https://juanisilva.github.io/NFT-Card-FEM/)
 
 ## My process
 I started with reading the documentation of Tailwind to add it to this project, then, I searched for what ever I didn't know on their quick search tool to add the classes to the elements :D.
